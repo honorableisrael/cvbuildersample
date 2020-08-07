@@ -917,3 +917,7 @@ label.error {
   justify-content: space-between;
   padding-left: 4rem;
 }
+
+li{
+  list-style: none !important;
+}
